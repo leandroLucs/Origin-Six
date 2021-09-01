@@ -1,6 +1,6 @@
 # Origin-Six
 #### Projeto desenvolvido durante a Next Level Week da Rocketseat.
-<a href="https://leandrolucs.github.io/templateWeb/">![image](https://user-images.githubusercontent.com/48057126/131681579-06f9f955-e58e-42d5-a50e-b9be8bfef182.png)</a>
+<a href="https://leandrolucs.github.io/templateWeb/" target="_blank">![image](https://user-images.githubusercontent.com/48057126/131681579-06f9f955-e58e-42d5-a50e-b9be8bfef182.png)</a>
 
 ## 🚀 Tecnologias
 <ul>
